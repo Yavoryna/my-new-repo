@@ -1,1 +1,14 @@
 # my-new-repo
+
+### Let's start!
+
+- This is my first project in GitHub)
+  
+**What did I do?**
+
+- I configured my PyCharm to work with GitHub and my branch, and also with interpreters:
+- - git clone, cd, branch 
+- Then I connected my project to HTTP and started it;
+- Finally I put the whole project in my branch in GitHub.
+
+**And now I am doing the README.md and remembering all steps that I did.**
