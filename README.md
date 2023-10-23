@@ -9,6 +9,6 @@
 - I configured my PyCharm to work with GitHub and my branch, and also with interpreters:
 - - git clone, cd, branch 
 - Then I connected my project to HTTP and started it;
-- Finally I put the whole project in my branch in GitHub.
+- Finally I put the whole project(main.py) in my branch (api) in GitHub.
 
 **And now I am doing the README.md and remembering all steps that I did.**
