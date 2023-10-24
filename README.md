@@ -4,10 +4,10 @@
 
 - This is my first project in GitHub)
   
-**What did I do?**
+##What did I do?
 
 - I configured my PyCharm to work with GitHub and my branch, and also with interpreters:
-- - git clone, cd, branch 
+-  'git clone, cd, branch'
 - Then I connected my project to HTTP and started it;
 - Finally I put the whole project(main.py) in my branch (api) in GitHub.
 
