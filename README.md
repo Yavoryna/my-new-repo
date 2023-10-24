@@ -7,8 +7,8 @@
 ##What did I do?##
 
 - I configured my PyCharm to work with GitHub and my branch, and also with interpreters:
-  `git clone "my link"`
-  `cd "my project"`
+  `git clone (https://github.com/Yavoryna/my-new-repo.git)`
+  `cd my-new-repo`
 - Then I connected my project to HTTP and started it;
 - Secondly, I check my requirements:
   `pip freeze > requirements.txt`
